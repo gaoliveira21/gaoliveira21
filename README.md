@@ -1,6 +1,6 @@
 ## Hi! I'm Gabriel Oliveira  👋
 
-- 📫 How to reach me: <gaoliveira211999@gmail.com>
+- 📫 How to reach me: <gabdev.pro@gmail.com>
 
 <div>
 <a href="https://github.com/gaoliveira21">
