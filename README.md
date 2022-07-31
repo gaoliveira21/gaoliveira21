@@ -1,6 +1,5 @@
 ## Hi! I'm Gabriel Oliveira  👋
 
-- 🌱 I’m currently learning about tests and software architecture
 - 📫 How to reach me: <gaoliveira211999@gmail.com>
 
 <div>
